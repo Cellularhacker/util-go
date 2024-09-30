@@ -1,4 +1,4 @@
-package util
+package sCrypto
 
 import (
 	"crypto/aes"
