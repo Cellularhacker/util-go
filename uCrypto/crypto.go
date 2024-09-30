@@ -1,4 +1,4 @@
-package sCrypto
+package uCrypto
 
 import (
 	"crypto/aes"

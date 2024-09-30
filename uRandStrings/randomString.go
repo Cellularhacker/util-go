@@ -1,4 +1,4 @@
-package util
+package uRandStrings
 
 import (
 	"crypto/rand"
