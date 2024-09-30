@@ -1,4 +1,4 @@
-package util
+package uStrings
 
 import "strings"
 
