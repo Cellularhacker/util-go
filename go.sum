@@ -1,5 +1,3 @@
-github.com/Cellularhacker/apiError-go v0.0.3 h1:dD7M5T3+cLu7euqsi4Pc1zjnj5kast0ORpEyiVa6czA=
-github.com/Cellularhacker/apiError-go v0.0.3/go.mod h1:ICem0XY2o52M9LiR59ebu9ZAIYJjx0ezuDtJSLm75Ls=
 github.com/golang-jwt/jwt v3.2.2+incompatible h1:IfV12K8xAKAnZqdXVzCZ+TOjboZ2keLg81eXfW3O+oY=
 github.com/golang-jwt/jwt v3.2.2+incompatible/go.mod h1:8pz2t5EyA70fFQQSrl6XZXzqecmYZeUEB8OUGHkxJ+I=
 github.com/jinzhu/now v1.1.5 h1:/o9tlHleP7gOFmsnYNz3RGnqzefHA47wQpKrrdTIwXQ=
