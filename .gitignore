@@ -24,11 +24,28 @@ src/gopkg.in/
 go.work
 go.work.sum
 
+# Editor/IDE
+.idea/
+.vscode/
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-1000/
+
+ # macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# References for code snippets
+references/
+
 # MARK
 main
 util
-.vscode/
-.vscode
-.idea/
 .env*
-.DS_Store
