@@ -2,10 +2,11 @@ package uTime
 
 import (
 	"fmt"
-	"github.com/Cellularhacker/util-go"
-	"github.com/jinzhu/now"
 	"strconv"
 	"time"
+
+	"github.com/Cellularhacker/util-go"
+	"github.com/jinzhu/now"
 )
 
 func GetNowDate() int {

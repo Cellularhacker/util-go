@@ -1,6 +1,8 @@
 package util
 
-import "time"
+import (
+	"time"
+)
 
 type TelegramBotConfig interface {
 	SendMessageAt(message string, at ...time.Time)

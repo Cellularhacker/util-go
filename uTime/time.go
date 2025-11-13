@@ -2,9 +2,10 @@ package uTime
 
 import (
 	"fmt"
-	"github.com/Cellularhacker/util-go"
 	"strconv"
 	"time"
+
+	"github.com/Cellularhacker/util-go"
 )
 
 const baseDayOfWeek = 1 //Monday
