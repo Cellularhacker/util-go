@@ -49,3 +49,8 @@ references/
 main
 util
 .env*
+
+# ── Claude Code (public repo — internal context 노출 방지) ──
+.claude/
+CLAUDE.md
+claude-memory/
