@@ -1,8 +1,12 @@
 package util
 
-import "time"
+import (
+	"time"
+)
 
-var Loc *time.Location
+var (
+	Loc *time.Location
+)
 
 func init() {
 

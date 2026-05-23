@@ -1,6 +1,8 @@
 package uTime
 
-import "time"
+import (
+	"time"
+)
 
 func IsNewHour() bool {
 	loc, _ := time.LoadLocation("Asia/Seoul")

@@ -1,6 +1,8 @@
 package simpleGraphQL
 
-import "strconv"
+import (
+	"strconv"
+)
 
 func GetLatestDataPoints(dps []DataPoints) *DataPoints {
 	if len(dps) == 0 {

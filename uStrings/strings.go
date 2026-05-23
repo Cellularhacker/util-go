@@ -1,6 +1,8 @@
 package uStrings
 
-import "strings"
+import (
+	"strings"
+)
 
 func RemoveAndTrim(original string, targets ...string) string {
 	str := original
